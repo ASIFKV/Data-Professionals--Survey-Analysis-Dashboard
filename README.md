@@ -1,4 +1,8 @@
 ****Data Professional Survey Analysis Dashboard****
+
+
+<img width="1336" height="747" alt="image" src="https://github.com/user-attachments/assets/7f464a00-76b5-4129-b160-2834c9d2c7ac" />
+
 **Project Overview**
 An interactive Power BI dashboard analyzing real survey data from 630+ data professionals worldwide. This project demonstrates comprehensive data transformation, visualization design, and business intelligence reporting capabilities using Microsoft Power BI.
 
